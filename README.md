@@ -1,10 +1,6 @@
-# Docker
-Python flask application that runs on Docker
+# RESTful Web Service Implementation + Docker
 
-## Getting Started
-Clone or download the project to your system
-
-### Prerequisites
+## Prerequisites
 Install Docker and Python on your system
 
 ### Installing
