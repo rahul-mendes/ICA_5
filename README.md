@@ -1,8 +1,8 @@
 # RESTful Web Service Implementation + Docker
 
-##Team Members 
-Shubham Mishra
-Rahul Mendes
+## Team Members 
+<p>Shubham Mishra</p>
+<p>Rahul Mendes</p>
 
 ## Prerequisites
 Install Docker and Python on your system
@@ -13,7 +13,7 @@ Once you have installed docker on your machine run command to check if it's work
 <pre>sudo apt install python3.8</pre>
 
 
-##Building the container
+## Building the container
 <p>To build the service</p>
 <pre>docker build -t service .</pre>
 <p>To build the client</p>
