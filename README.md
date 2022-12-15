@@ -12,6 +12,14 @@ Once you have installed docker on your machine run command to check if it's work
 <p>Now to install python</p>
 <pre>sudo apt install python3.8</pre>
 
+
+###Building the container
+<p>To build the service</p>
+<pre>docker build -t service .</pre>
+<p>To build the client</p>
+<pre>docker build -t client .</pre>
+
+
 ### Running
 <p>TO run the service </p>
 <pre>docker run -p 4000:80 server</pre>
