@@ -9,8 +9,8 @@ Install Docker and Python on your system
 <pre>$ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin</pre>
 Once you have installed docker on your machine run command to check if it's working or not.
 <pre>sudo docker run hello-world</pre>
-
-
+<p>Now to install python</p>
+<pre>sudo apt install python3.8</pre>
 
 ### Running
 <p>TO run the service </p>
