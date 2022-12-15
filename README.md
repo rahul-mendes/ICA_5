@@ -21,7 +21,7 @@ Once you have installed docker on your machine run command to check if it's work
 
 
 ## Running
-<p>TO run the service </p>
+<p>To run the service </p>
 <pre>docker run -p 4000:80 server</pre>
 <p>To run the client</p> 
 <pre>docker run -p 5000:8080 client</pre>
