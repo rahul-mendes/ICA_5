@@ -1,10 +1,16 @@
 # RESTful Web Service Implementation + Docker
 
+##Team Members 
+Shubham Mishra
+Rahul Mendes
+
 ## Prerequisites
 Install Docker and Python on your system
+<pre>$ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin</pre>
+Once you have installed docker on your machine run command to check if it's working or not.
+<pre>sudo docker run hello-world</pre>
 
-### Installing
-<p>Download Dependencies</p><pre>pip install -r requirements.txt</pre>
+
 
 ### Running
 <p>TO run the service </p>
